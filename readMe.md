@@ -24,27 +24,27 @@ This project features Hover Profile Cards that provide an interactive way to sho
 
 
 # Preview
-<span># Hover Profile Cards - Interactive User & Product Profiles</span>
+<span>Hover Profile Cards - Interactive User & Product Profiles</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220313379/Hover-Profile-Cards-Interactive-Product-Profiles" target="_blank">
 <img style="width:550px;" src="./img/landingPageCardSection.gif" alt="" /></a>
 <br/>
-<span># Hover Profile Cards - Interactive User & Product Profiles Start & End Point </span>
+<span>Hover Profile Cards - Interactive User & Product Profiles Start & End Point </span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220313379/Hover-Profile-Cards-Interactive-Product-Profiles" target="_blank">
 <img style="width:290px;" src="./img/landingPageCardSection.png" alt="" />
 <img style="width:290px;" src="./img/landingPageCardHoverSection.png" alt="" />
 </a>
 <br/>
-<span># Hover Profile Cards - Interactive User & Product Profiles UI UX Layout Start & End Point</span>
+<span>Hover Profile Cards - Interactive User & Product Profiles UI UX Layout Start & End Point</span>
 <br/>
-<a href="#" target="_blank">
-<img style="width:350px;" src="./img/landingPageGallerySectionUIUXlayout.png" alt="" />
+<a href="https://www.behance.net/gallery/220313379/Hover-Profile-Cards-Interactive-Product-Profiles" target="_blank">
+<img style="width:350px;" src="./img/landingPageCardSectionUIUXLayout.gif" alt="" />
 </a>
 <br />
-<span># Hover Profile Cards - Interactive User & Product Profiles UI UX Layout</span>
+<span>Hover Profile Cards - Interactive User & Product Profiles UI UX Layout</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220313379/Hover-Profile-Cards-Interactive-Product-Profiles" target="_blank">
 <img style="width:290px;" src="./img/landingPageCardSectionUIUXLayout.png" alt="" />
 <img style="width:290px;" src="./img/landingPageCardHoverSectionUIUXLayout.png" alt="" />
 
@@ -52,7 +52,7 @@ This project features Hover Profile Cards that provide an interactive way to sho
 <br/>
 <span>Cover</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220313379/Hover-Profile-Cards-Interactive-Product-Profiles" target="_blank">
 <img style="width:350px;" src="./img/cover.png" alt="" />
 </a>
 <br />

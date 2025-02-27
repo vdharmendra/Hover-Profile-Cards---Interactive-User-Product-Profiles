@@ -1,0 +1,88 @@
+/* GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+/* BODY STYLE */
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dad5fc;
+}
+/* SECTION STYLE */
+.sectionHeading,
+.sectionSubSeading {
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    font-size: 72px;
+    color: #493D9E;
+    margin: 20px 0;
+}
+.sectionSubSeading {
+    font-size: 18px;
+    line-height: 1.4;
+    margin: 0 0 90px 0;
+    color: #3a3077;
+    font-weight: 300;
+    font-family: "Lora", serif;
+}
+.locationInnerContainer {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.locationProfile {
+    position: relative;
+    transition: all 0.3s;
+}
+
+.locationProfile:hover {
+    transform: translateY(25px);
+}
+
+.locationProfile img {
+    max-width: 100%;
+    border-radius: 50%;
+    border: 5px solid #f7f7f7;
+    filter: drop-shadow(-20px 0 10px rgba(0, 0, 0, 0.1));
+    cursor: pointer;
+}
+
+.locationProfile:not(:first-child) img {
+    margin-left: -20px;
+}
+
+.locationProfile .locationPlaceName {
+    position: absolute;
+    background-color: #493D9E;
+    color: #fff;
+    font-family: "Bebas Neue", cursive;
+    padding: 15px 30px;
+    border-radius: 100px;
+    top: -80px;
+    left: 50%;
+    white-space: nowrap;
+    transform: translate(-50%, -50px);
+    letter-spacing: 1px;
+    font-size: 20px;
+    opacity: 0;
+    transition: all 0.3s;
+}
+
+.locationProfile .locationPlaceName::before {
+    content: "";
+    position: absolute;
+    width: 15px; height: 15px;
+    background-color: #493D9E;
+    bottom: -15px; left: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.locationProfile img:hover + .locationPlaceName {
+    opacity: 1;
+    transform: translateX(-50%);
+    box-shadow: 0 10px 20px rgba(86, 86, 198, 0.3);
+}
